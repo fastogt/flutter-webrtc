@@ -37,3 +37,6 @@ flutter:
         pluginClass: FlutterWebRTCPlugin
       linux:
         pluginClass: FlutterWebRTCPlugin
+
+dependency_overrides:
+  web: ^1.0.0
